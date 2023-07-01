@@ -1,0 +1,26 @@
+.heading{
+    background-color: lightblue;
+    height: 55px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+
+.userInput{
+    width: 80%;
+    position: absolute;
+    height: 40px;
+    bottom:10px;
+    margin-left:30px ;
+
+}
+
+.sent{
+    position: absolute;
+    bottom: 20px;
+    
+    right: 20px;
+  
+}
+
